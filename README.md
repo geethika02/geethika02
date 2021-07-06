@@ -1,6 +1,6 @@
 ### Hi Everyone, I'm Geethika! 👋
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif">
+<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif">
 
 
 - 🔭 I’m currently working on developing my coding skills.
