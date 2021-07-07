@@ -2,7 +2,6 @@
 
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif">
 
-
 - 🔭 I’m currently working on developing my coding skills.
 - 🌱 I’m currently learning more stuff on Machine Learning and Cloud Computing.
 - 👯 I’m looking to collaborate on community projects!
