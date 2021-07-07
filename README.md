@@ -6,11 +6,10 @@
 - 🔭 I’m currently working on developing my coding skills.
 - 🌱 I’m currently learning more stuff on Machine Learning and Cloud Computing.
 - 👯 I’m looking to collaborate on community projects!
-- 💬 Ask me about Anything!
 - 📫 How to reach me: geethikavsr@gmail.com
 - ⚡ Fun fact: The only code I write without any errors : "Hello World"
-- 📝 I regularly write articles on
-- 📄 Know about my experiences
+- 📝 I regularly write articles on [https://factsinfoquote.blogspot.com/](https://factsinfoquote.blogspot.com/)
+- 📄 Know about my experiences [https://resume.io/r/MZVzh37Pm](https://resume.io/r/MZVzh37Pm)
 
 
 <h3 align="left">Connect with me:</h3>
@@ -36,3 +35,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> 
   <br></br>
 <img src="https://github-readme-stats.vercel.app/api?username=geethika02&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=geethika02&label=Profile%20views&color=0e75b6&style=flat" alt="geethika02" /> </p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geethika02&show_icons=true&locale=en&layout=compact_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="geethika02" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geethika02&_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="geethika02" /></p>
