@@ -34,14 +34,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> 
   <br></br>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=geethika02&label=Profile%20views&color=0e75b6&style=flat" alt="geethika02" /> </p>
 <img src="https://github-readme-stats.vercel.app/api?username=geethika02&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geethika02&theme=dark" alt="geethika02" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=geethika02&show_icons=true&locale=en&layout=compact_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="geethika02" /></p>
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=geethika02&label=Profile%20views&color=0e75b6&style=flat" alt="geethika02" /> </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geethika02&show_icons=true&locale=en&layout=compact_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="geethika02" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geethika02&_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="geethika02" /></p>
