@@ -6,10 +6,10 @@
 - 🔭 I’m currently working on developing my coding skills.
 - 🌱 I’m currently learning more stuff on Machine Learning and Cloud Computing.
 - 👯 I’m looking to collaborate on community projects!
-- 📫 How to reach me: geethikavsr@gmail.com
-- ⚡ Fun fact: The only code I write without any errors : "Hello World"
-- 📝 I regularly write articles on [https://factsinfoquote.blogspot.com/](https://factsinfoquote.blogspot.com/)
-- 📄 Know about my experiences [https://resume.io/r/MZVzh37Pm](https://resume.io/r/MZVzh37Pm)
+- 📫 How to reach me: geethikavsr@gmail.com.
+- ⚡ Fun fact: The only code I write without any errors : "Hello World".
+- 📝 I regularly write articles on [my blog](https://factsinfoquote.blogspot.com/).
+- 📄 Know about my experiences [here](https://resume.io/r/MZVzh37Pm).
 
 
 <h3 align="left">Connect with me:</h3>
