@@ -22,6 +22,8 @@
 <a href="https://auth.geeksforgeeks.org/user/geethikavsr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geethikavsr" height="30" width="40" /></a>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=geethika02&label=Profile%20views&color=0e75b6&style=flat" alt="geethika02" /> </p>
+
 <h3 align="left">Languages and Tools:</h3>
  <a href="https://www.cprogramming.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank">
@@ -33,9 +35,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> 
-  <br></br>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=geethika02&label=Profile%20views&color=0e75b6&style=flat" alt="geethika02" /> </p>
+ 
+  
+  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=geethika02&show_icons=true&locale=en&layout=compact_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="geethika02" /></p>
+
+ 
 <img src="https://github-readme-stats.vercel.app/api?username=geethika02&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geethika02&theme=dark" alt="geethika02" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=geethika02&show_icons=true&locale=en&layout=compact_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="geethika02" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=geethika02&theme=dark" alt="geethika02" /></p>
 
